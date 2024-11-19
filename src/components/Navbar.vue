@@ -83,7 +83,7 @@
 export default {
     data() {
         return {
-            navVisible: false, D
+            navVisible: false,
         };
     },
     methods: {
